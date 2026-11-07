@@ -22,6 +22,6 @@ an `EventsListViewModel`, and separate managers for networking (async/await + Co
 3. Open `CSE 335 Project.xcodeproj` in Xcode and run on a simulator or device (allow location access).
 
 ## Demo
-<!-- Add your demo video link or a GIF here -->
+▶️ [Watch the 1:35 demo on YouTube](https://www.youtube.com/watch?v=U7y-tN7s7tA)
 
 *Ayman Salha*
